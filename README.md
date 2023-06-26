@@ -7,16 +7,21 @@ Explore sua página inicial deslumbrante, navegando por uma galeria de fotos.
 
 ## Layout web
 ### Home
-![Home]()
+![Home](https://github.com/arielklxto/Projeto_Anna_Bella/blob/main/imagens/Home.png)
 
-### Texto da home
-![Home texto](https://github.com/arielklxto/Projeto_Unes/blob/main/Projeto1/imagens/Home_txt.png)
+### Campanha
+![Home texto](https://github.com/arielklxto/Projeto_Anna_Bella/blob/main/imagens/Campanha1.png)
 
-### Quem somos
-![Quem somos](https://github.com/arielklxto/Projeto_Unes/blob/main/Projeto1/imagens/Quem_somos.png)
+### Campanha
+![Home texto](https://github.com/arielklxto/Projeto_Anna_Bella/blob/main/imagens/Campanha2.png)
+
+### Campanha
+![Home texto](https://github.com/arielklxto/Projeto_Anna_Bella/blob/main/imagens/Campanha3.png) 
 
 ### Contato
-![Contato](https://github.com/arielklxto/Projeto_Unes/blob/main/Projeto1/imagens/Contato.png)
+![Contato](https://github.com/arielklxto/Projeto_Anna_Bella/blob/main/imagens/Contato.png)
+
+![Gif do site](https://github.com/arielklxto/Projeto_Anna_Bella/blob/main/imagens/projeto_annabella_gif.gif)
 
 # Tecnologias utilizadas
 - HTML / CSS
