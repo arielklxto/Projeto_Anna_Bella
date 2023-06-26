@@ -12,10 +12,8 @@ Explore sua página inicial deslumbrante, navegando por uma galeria de fotos.
 ### Campanha
 ![Home texto](https://github.com/arielklxto/Projeto_Anna_Bella/blob/main/imagens/Campanha1.png)
 
-### Campanha
 ![Home texto](https://github.com/arielklxto/Projeto_Anna_Bella/blob/main/imagens/Campanha2.png)
 
-### Campanha
 ![Home texto](https://github.com/arielklxto/Projeto_Anna_Bella/blob/main/imagens/Campanha3.png) 
 
 ### Contato
