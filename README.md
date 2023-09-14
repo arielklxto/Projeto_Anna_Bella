@@ -1,9 +1,10 @@
 # Projeto Anna Bella
 
 # Sobre o projeto
-Descrição: Bem-vindo(a) à landing page de Anna Bella, a modelo do GitHub!
-Descubra a mistura perfeita entre beleza e habilidades técnicas com HTML e CSS. 
-Explore sua página inicial deslumbrante, navegando por uma galeria de fotos. 
+Descrição:
+"Bem-vindo ao nosso blog de notícias! 📰 
+Fique por dentro das últimas novidades do mundo, entretenimento, tecnologia e muito mais. 
+Informação fresquinha com um toque de diversão! 😊🌍 #FiqueAtualizado #NotíciasQuentes"
 
 ## Layout web
 ### Home
